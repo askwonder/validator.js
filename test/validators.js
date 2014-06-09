@@ -81,6 +81,7 @@ describe('Validators', function () {
               , 'http://foobar.com#baz=qux'
               , 'http://www.xn--froschgrn-x9a.net/'
               , 'http://xn--froschgrn-x9a.com/'
+              , 'http://concert_window.s3.amazonaws.com/static/logos/concert_window_logo_retina.png'
             ]
           , invalid: [
                 'xyz://foobar.com'
